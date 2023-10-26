@@ -1,13 +1,13 @@
 
-<h1 align="center">Assalomu alaykum 👋, Mening ismim --- Doniyorov Ro'zimurod</h1>
-<h3 align="center">MENING MAXSUSLIGI --- BACKEND DEVELOPER</h3>
+<h1 align="center">Hi 👋, My name --- Doniyorov Ro'zimurod</h1>
+<h3 align="center">MY SPECIALIZATION --- BACKEND DEVELOPER</h3>
 
 
 <img align="right" alt="Coding" with="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2M1kBBOoFFeAn3wtlGyoo-&ust=1698437279310000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi_x4fClIIDFQAAAAAdAAAAABAF"> 
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=doniyorov07&label=Profile%20views&color=0e75b6&style=flat" alt="doniyorov07" /> </p>
 
-- 🌱 Men hozir o'rganyapman **LARAVEL **
+- 🌱  **LARAVEL **
 
 - 📫 Men bilan qanday bog'lanish mumkin **doniyorovrozimurod1@gmail.com**
 
