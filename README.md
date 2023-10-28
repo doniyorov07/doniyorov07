@@ -1,9 +1,9 @@
 <!--                                                        # Ulugbek Muhammadjonov  
-- 👋 Hi, I’m Ulugbek Muhammadjonov 
-- 👀 I’m interested in PHP, MVC, YIi2,JavaScript, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
+- 👋 Hi, I’m Doniyorov Ro'zimurod
+- 👀 I’m interested in PHP, MVC, YIi2, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
 - 🌱 I’m currently learning Laravel 
-- 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me muhammadjonovulugbek98@gmail.com  -->
+- 💞️ I’m looking to collaborate on web platform development 
+- 📫 How to reach doniyorovrozimurod1@gmail.com  -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
@@ -55,8 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ### Tools:
 
@@ -64,22 +63,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
 ### Studying in this moment: 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Areas of Interest:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Game](https://img.shields.io/badge/game-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230db7ed.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)&nbsp;
 
 
 <div align="center">
