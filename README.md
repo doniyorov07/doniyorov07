@@ -1,4 +1,4 @@
-<!--                                                        # Ulugbek Muhammadjonov  
+<!--                                                        # Doniyorov Ro'zimurod
 - 👋 Hi, I’m Doniyorov Ro'zimurod
 - 👀 I’m interested in PHP, MVC, YIi2, JQuery, HTML, HTML5, CSS, CSS3,flexbox, Teamwork, API's,Database Management,MySql,Sql, PgSql and Multimedia Content Developmen.
 - 🌱 I’m currently learning Laravel 
@@ -69,6 +69,7 @@
 ### Studying in this moment: 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+###Areas of Interest:
 ![Game](https://img.shields.io/badge/game-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230db7ed.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)&nbsp;
 
