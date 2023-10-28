@@ -73,14 +73,15 @@
 ### Studying in this moment: 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-###Areas of Interest:
-![Game](https://img.shields.io/badge/game-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+### Areas of Interest:
+
+![Game](https://img.shields.io/badge/game-3670A0?style=for-the-badge&logo=game&logoColor=ffdd54)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230db7ed.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)&nbsp;
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ulugbek-Muhammadjonov}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{doniyorov07}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
