@@ -15,15 +15,19 @@
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyorov-Ro'zimurod&theme=react-dark&hide_border=true&area=true" />
 </div> 
- 
-<!--  ./STAT -->
+<!-- GitHub Stats -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Doniyorov-Ro'zimurod&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Doniyorov Ro'zimurod github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyorov Ro'zimurod&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyorov-Ro'zimurod&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<!-- GitHub Stats -->
 
-<!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyorov Ro'zimurod&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Doniyorov Ro'zimurod" /></div>
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyorov-Ro'zimurod&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Doniyorov Ro'zimurod" />
+</div>
+<!-- GitHub Streak Stats -->
+
 <!-- <div align="center"   >   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=php&logoColor=white"/>
