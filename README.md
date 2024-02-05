@@ -12,9 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Doniyorov-Ro'zimurod;MY+SPECIALIZATION+===+WEB+DEVELOPMENT;MY+EXPERIENCE+>+1+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THX+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=doniyorov07&theme=react-dark&hide_border=true&area=true" />
-</div> 
+
 <!-- GitHub Stats -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=doniyorov07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Doniyorov Ro'zimurod github stats" /> 
